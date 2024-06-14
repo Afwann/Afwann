@@ -8,13 +8,13 @@
 </h1>
 <div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/Afwann/profile-assets/main/gifs/Project%20WishGranter%20-DevBlog-.gif" alt="Halo GIF" style="width: 30%; margin-right: 20px;">
-  <p>This text appears next to the Halo GIF. You can format **bold** or *italic* text using Markdown.</p>
+  <p>This texn.</p>
 </div>
 
 <div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/Afwann/profile-assets/main/gifs/Project%20WishGranter%20-DevBlog-.gif" alt="Halo GIF" style="width: 30%; margin-right: 20px;">
   <div>
-    <p>Text that appears next to the Halo GIF. You can format this text using Markdown.</p>
+    <p>Text n.</p>
   </div>
 </div>
 | ![Halo GIF](https://raw.githubusercontent.com/Afwann/profile-assets/main/gifs/Project%20WishGranter%20-DevBlog-.gif) | Text that appears next to the Halo GIF. You can format this text using Markdown. |
