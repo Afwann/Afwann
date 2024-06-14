@@ -5,7 +5,7 @@
 </h1>
 <div align="left">
 
-### <img src="https://raw.githubusercontent.com/Afwann/profile-assets/main/gifs/Project%20WishGranter%20-DevBlog-.gif" width="50"> A little more about me...  
+# <img src="https://i.pinimg.com/originals/9c/6d/a8/9c6da87a758a7e919f54e564d9930bbe.gif" width="50"> Afwan Mulia Pratama 
 
 # 🧙‍♂️ WisterAzalea
 
