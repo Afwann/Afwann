@@ -6,6 +6,11 @@
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/Afwann/profile-assets/main/gifs/Project%20WishGranter%20-DevBlog-.gif" style="width:50%; height:auto;" />
 </h1>
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/Afwann/profile-assets/main/gifs/Project%20WishGranter%20-DevBlog-.gif" alt="Halo GIF" style="width: 30%; margin-right: 20px;">
+  <p>This text appears next to the Halo GIF. You can format **bold** or *italic* text using Markdown.</p>
+</div>
+
 <!--
 **Afwann/Afwann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
