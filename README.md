@@ -6,6 +6,8 @@
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/Afwann/profile-assets/main/gifs/Project%20WishGranter%20-DevBlog-.gif" />
 </h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F70000&width=435&lines=Welcome+to+Afwan's+MMORPG+Adventure!+%3E;Initializing+Player+%3A+Afwan+%3E;Loading+Stats+%3A+Coder+%7C+Linux+Enthusiast+%3E;Entering+Terminal+%3A+Linux+OS+%3E;Accessing+Quests+%3A+Open+Source+Contributions+%3E;Afwan's+Journey+Begins...)
+
 https://raw.githubusercontent.com/Afwann/profile-assets/main/gifs/Project%20WishGranter%20-DevBlog-.gif
 https://raw.githubusercontent.com/Afwann/profile-assets/main/gifs/Project%20WishGranter%20-DevBlog-.gif
 <!--
