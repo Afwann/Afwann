@@ -5,4 +5,8 @@
 </h1>
 <div align="left">
 
-# 🧙‍♂️ Afwan Mulia Pratama
+### <img src="https://raw.githubusercontent.com/Afwann/profile-assets/main/gifs/Project%20WishGranter%20-DevBlog-.gif" width="50"> A little more about me...  
+
+# 🧙‍♂️ WisterAzalea
+
+** Digital
