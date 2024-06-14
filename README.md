@@ -4,11 +4,10 @@
 
 <img align='right' src="https://i.pinimg.com/originals/c5/92/c4/c592c4100ca142adf43286b93dbfa293.gif" width="230">
 
-### <img src="https://i.pinimg.com/originals/9c/6d/a8/9c6da87a758a7e919f54e564d9930bbe.gif" width="30">Afwan Mulia Pratama
-
+### <img src="https://i.pinimg.com/originals/9c/6d/a8/9c6da87a758a7e919f54e564d9930bbe.gif" width="30"> Afwan Mulia Pratama
 **``Digital Wizard``**
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+As a Informatic Engineering Student at Brawijaya University with focus on Network Engineering, Backend Development, and Cybersecurity. My journey has equpped me with foundation in manage a secure network, robust backend solution and implementing cybersecurity measures. Proficient in some technologies such as Cisco, Juniper and Wireshark, as well as Internet Protocol such as BGP, OSPF, IS-IS. Not only that I also have basic in Javascript, Bash, and Python. Equipped with these skills, I hope can apply it in industry and make a big positive impact in technologies.
 
 <div align="center"> 
     <a href="mailto:afwanmp@gmail.com" target="_blank">
@@ -24,16 +23,18 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 
 
-<h2 align="center">🧰 Tools & Languages  🧰</h2>
+<h2 align="center">🧱 Tools & Languages  🧱</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,bash" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,java,mysql,postgresql,prisma" /><br>
 </div>
 
+<h2 align="center">📟 Stats 📟</h2>
 <br/>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=Afwann&theme=merko&border_radius=8&mode=weekly" alt="streak stats"/>
+  <br>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Afwann&count_private=true&show_icons=true&theme=merko&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Afwann&hide=HTML&langs_count=8&layout=compact&theme=merko&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <br>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Afwann&hide=HTML&langs_count=8&layout=compact&theme=merko&border_radius=5&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
