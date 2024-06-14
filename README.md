@@ -1,15 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Afwann.Afwann" />
 ## Hi there 👋
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=bitmap&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&duration=3000&color=33FF00&center=true&vCenter=true&random=false&width=435&lines=~%24+echo+'Welcome%2C+Adventurer+!+%E2%9A%94+';~%24+sudo+pacman+-Syu+git-adv;~%24+usr%2Fbin%2Fgit-adv;~%24+%5B+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%5D+100%25;~%24+'Initiating+Quests%3A+Open+Source+Project';~%24+'Let+the+Adventure+Begin...!+%E2%9A%94'" alt="Typing SVG" /></a>" />
 </h1>
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/Afwann/profile-assets/main/gifs/Project%20WishGranter%20-DevBlog-.gif" />
 </h1>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F70000&width=435&lines=Welcome+to+Afwan's+MMORPG+Adventure!+%3E;Initializing+Player+%3A+Afwan+%3E;Loading+Stats+%3A+Coder+%7C+Linux+Enthusiast+%3E;Entering+Terminal+%3A+Linux+OS+%3E;Accessing+Quests+%3A+Open+Source+Contributions+%3E;Afwan's+Journey+Begins...)
-
-https://raw.githubusercontent.com/Afwann/profile-assets/main/gifs/Project%20WishGranter%20-DevBlog-.gif
-https://raw.githubusercontent.com/Afwann/profile-assets/main/gifs/Project%20WishGranter%20-DevBlog-.gif
 <!--
 **Afwann/Afwann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
