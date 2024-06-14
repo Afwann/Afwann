@@ -17,6 +17,9 @@
     <p>Text that appears next to the Halo GIF. You can format this text using Markdown.</p>
   </div>
 </div>
+| ![Halo GIF](https://raw.githubusercontent.com/Afwann/profile-assets/main/gifs/Project%20WishGranter%20-DevBlog-.gif) | Text that appears next to the Halo GIF. You can format this text using Markdown. |
+|---|---|
+
 
 <!--
 **Afwann/Afwann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
