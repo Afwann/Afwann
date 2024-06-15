@@ -2,13 +2,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=35&duration=3000&pause=1000&color=33FF00&center=true&vCenter=true&random=false&width=700&lines=~%24+sudo+pacman+-Syu+git-profile;~%24+usr%2Fbin%2Fgit-profile;~%24+%22Hey%2C+you+are+welcome+to+my+profile%22;~%24+%22And+hope+you+find+it+awesome%22" alt="Typing SVG" /></a>
 </h1>
 
-<img align='right' src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="150">
+<img align='right' src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="180">
 
 ### <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" width="30"> Afwan Mulia Pratama
 **``Interested in DevSecOps & Network``**
 
+<p align='justify'>
 As a Informatic Engineering Student at Brawijaya University, My journey has equipped me with foundation in manage a secure network, robust backend solution, and cybersecurity measures. Have some experience in some technologies such as Cisco, Juniper, Wireshark. Not only that I also have basic in Javascript, Bash, and Python. Equipped with these skills, I hope can apply it in industry and make a big positive impact in technologies.
-
+</p>
 <br/>
 
 <div align="center"> 
