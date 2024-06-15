@@ -10,8 +10,6 @@
 As a Informatic Engineering Student at Brawijaya University, My journey has equipped me with foundation in manage a secure network, robust backend solution, and cybersecurity measures. Have some experience in some technologies such as Cisco, Juniper, Wireshark. Not only that I also have basic in Javascript, Bash, and Python. Equipped with these skills, I hope can apply it in industry and make a big positive impact in technologies.
 
 <br/>
-<br/>
-<br/>
 
 <div align="center"> 
     <a href="mailto:afwanmp@gmail.com" target="_blank">
