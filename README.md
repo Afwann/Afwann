@@ -4,7 +4,7 @@
 
 <img align='right' src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="230">
 
-### <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" width="40"> Afwan Mulia Pratama
+### <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" width="30"> Afwan Mulia Pratama
 **``Interested in DevSecOps & Network``**
 
 As a Informatic Engineering Student at Brawijaya University, My journey has equipped me with foundation in manage a secure network, robust backend solution, and cybersecurity measures. Have some experience in some technologies such as Cisco, Juniper, Wireshark. Not only that I also have basic in Javascript, Bash, and Python. Equipped with these skills, I hope can apply it in industry and make a big positive impact in technologies.
