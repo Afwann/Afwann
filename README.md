@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=35&duration=3000&pause=1000&color=33FF00&center=true&vCenter=true&random=false&width=700&lines=~%24+sudo+pacman+-Syu+git-profile;~%24+usr%2Fbin%2Fgit-profile;~%24+%22Hey%2C+you+are+welcome+to+my+profile%22;~%24+%22And+hope+you+find+it+awesome%22" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=35&duration=3000&pause=1000&color=33FF00&center=true&vCenter=true&random=false&width=700&lines=~%24+sudo+pacman+-Syu+github-profile;~%24+usr%2Fbin%2Fgithub-profile;~%24+%22+Hey%2C+Welcome+to+my+profile+%22;~%24+%22+And+I+hope+you+find+it+awesome.+%22" alt="Typing SVG" /></a>
 </h1>
 
 <img align='right' src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="180">
